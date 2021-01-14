@@ -4,7 +4,7 @@
 Purpose of project is to classify differnet signal modulations. </br>
 
 ## Dataset</br>
-I use public signal dataset 2016.10A, which is available in https://www.deepsig.ai/datasets.</br>
+I used public signal dataset 2016.10A, which is available in https://www.deepsig.ai/datasets.</br>
 Targer classes are: 
 '8PSK'
 'AM-DSB'

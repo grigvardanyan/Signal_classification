@@ -33,7 +33,10 @@ Architecture in paper was used without batch normalization trick. In my experime
 **SNR** is ratio between **Power** of signal and noise in decibels scale </br>
 ![Test Image 1](snr_db.png) </br></br></br>
 ![Test Image 1](snr.png)
-![Test Image 2](batch_snr.png)
+![Test Image 2](batch_snr.png)</br></br>
 
+## Run
 
-
+For using ipython notebook you can download it and run through google colab, as computational resourseas are required.</br>
+For each model (without and with batch norm) it require about 2 hours to train.
+Ipython notebook contains script for downloading dataset.

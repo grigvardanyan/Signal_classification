@@ -1,4 +1,4 @@
-# Signal_classification
+# Signal classification
 
 ## Task</br>
 Purpose of project is to classify differnet signal modulations. </br>

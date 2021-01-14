@@ -25,6 +25,8 @@ Most of reaseach papers over this dataset are doing without any feature engineea
 ## Method </br>
 CNN architecture is from  https://arxiv.org/pdf/1602.04105.pdf
 
+## Feature engineearing </br>
+In code there are two feature engineearing techniques,but best one performed raw data </br>
 ## Evaluation</br>
 Architecture in paper was used without batch normalization trick. In my experiment I also added batch normalization before each activation function(right plot). See result in picture.</br>
 **NOTE:** Images were ploted over test dataset.</br>

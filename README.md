@@ -26,9 +26,11 @@ Most of reaseach papers over this dataset are doing without any feature engineea
 CNN architecture is from  https://arxiv.org/pdf/1602.04105.pdf
 
 ## Evaluation</br>
-Architecture in paper was used without batch normalization trick. In my experiment I also added batch normalization before each activation function. See result in picture.
-**NOTE** Images were ploted over test dataset.
+Architecture in paper was used without batch normalization trick. In my experiment I also added batch normalization before each activation function. See result in picture.</br>
+**NOTE** Images were ploted over test dataset.</br>
 
+![Test Image 1](snr_formula.png) </br>
+**SNR** is ratio between **Power** of signal and noise </br></br>
 ![Test Image 1](snr.png)
 ![Test Image 2](batch_snr.png)
 
